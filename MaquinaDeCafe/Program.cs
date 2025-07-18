@@ -10,6 +10,7 @@ namespace MaquinaDeCafe
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bienvenido a la Maquina de Cafe!");
         }
     }
 }
